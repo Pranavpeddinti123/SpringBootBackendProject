@@ -8,7 +8,7 @@ public class SpringBootFinalProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootFinalProjectApplication.class, args);
-		System.out.println("project is running !!!");
+		System.out.println("project is running !!");
 	}
 
 }
